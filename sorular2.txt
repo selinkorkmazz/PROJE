@@ -1,0 +1,12 @@
+Hangi et turunu tercih edersin?
+A)Inek eti
+B)Kuzu eti
+C)Bildircin eti
+Hangi konaklama turunu tercih edersin?
+A)Bungalov
+B)Cadir
+C)5 yildizli otel
+Sizi en iyi hangisi tarif ediyor?
+A)Comert
+B)Cesur
+C)Ahlakli
