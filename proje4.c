@@ -148,6 +148,7 @@ void main()
             renk++;
             printf("Verdigin cevaplara bakarsak Bati esintilerine sahipsin!\nHadi bu sorulari da cevapla ve tam olarak hangi cografi bolgenin insani oldugunu bul!\nDevam etmek icin ENTER'a bas.\n");
             getch();
+            system("cls");
             if (sorular1 == NULL)
             {
                 system("color 0C");
@@ -205,6 +206,7 @@ void main()
             renk++;
             printf("Verdigin cevaplara bakarsak Bati esintilerine sahipsin!\nHadi bu sorulari da cevapla ve tam olarak hangi cografi bolgenin insani oldugunu bul!\nDevam etmek icin ENTER'a bas.\n");
             getch();
+            system("cls");
             if (sorular2 == NULL)
             {
                 system("color 0C");
@@ -262,6 +264,7 @@ void main()
             renk++;
             printf("Verdigin cevaplara bakarsak Bati esintilerine sahipsin!\nHadi bu sorulari da cevapla ve tam olarak hangi cografi bolgenin insani oldugunu bul!\nDevam etmek icin ENTER'a bas.\n");
             getch();
+            system("cls");
             if (sorular3 == NULL)
             {
                 system("color 0C");
