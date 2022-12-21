@@ -96,7 +96,7 @@ void main()
         while (fgets(line, maxline, anasorular))
         {
             printf(line);
-            if (satir % 4 == 0) // 4e bölümünden kalanı 1 olan satırlar çekiliyor
+            if (satir % 4 == 0)
             {
                 // her soruda (4 satırda) bir terminalin rengi değiştiriliyor
                 color();
