@@ -204,7 +204,7 @@ void main()
             FILE *sorular2 = fopen("sorular2.txt", "r");
             color();
             renk++;
-            printf("Verdigin cevaplara bakarsak Bati esintilerine sahipsin!\nHadi bu sorulari da cevapla ve tam olarak hangi cografi bolgenin insani oldugunu bul!\nDevam etmek icin ENTER'a bas.\n");
+            printf("Verdigin cevaplar Orta Dogu cografyasına yakin gorunuyor!\nHadi bu sorulari da cevapla ve tam olarak hangi cografi bolgenin insani oldugunu bul!\nDevam etmek icin ENTER'a bas.\n");
             getch();
             system("cls");
             if (sorular2 == NULL)
@@ -262,7 +262,7 @@ void main()
             FILE *sorular3 = fopen("sorular3.txt", "r");
             color();
             renk++;
-            printf("Verdigin cevaplara bakarsak Bati esintilerine sahipsin!\nHadi bu sorulari da cevapla ve tam olarak hangi cografi bolgenin insani oldugunu bul!\nDevam etmek icin ENTER'a bas.\n");
+            printf("Verdigin cevaplara gore Asya cografyasina daha cok yaklasiyorsun!\nHadi bu sorulari da cevapla ve tam olarak hangi cografi bolgenin insani oldugunu bul!\nDevam etmek icin ENTER'a bas.\n");
             getch();
             system("cls");
             if (sorular3 == NULL)
